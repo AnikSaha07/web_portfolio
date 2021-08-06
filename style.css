@@ -12,7 +12,8 @@ h2{
     
 }
 p{
-    color: dimgray;
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .name-highlight{
     color: orange;
@@ -29,6 +30,7 @@ p{
 .top-bg{
     background-image: url(./images/top-banner.png );
     background-repeat: no-repeat;
+    
 
 }
 section{
@@ -59,7 +61,7 @@ section{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
     height: 60%;
-    background-color: white;
+    
 }
 .experience_area{
     background-image: url(./images/exp-bg.png);
@@ -68,7 +70,7 @@ section{
 }
 #full-stack{
     border-left: 7px solid;
-    border-image: linear-gradient( 180deg, lightsalmon, tomato);
+    border-image: linear-gradient( 180deg, blue, lightsalmon);
     border-image-slice: 1;
 }
 #baby{
